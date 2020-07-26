@@ -9,11 +9,11 @@ This is a fltter app. Our mission is to provide guidance to the farmer communtit
 You can get recommendarions on What to grow. How to grow, et cetera. You can get news latest news about agriculture and farming news. 
 
 # Installation 
-> Git clone this repository 
-> Open in vscode or android studio
-> Ppdate the dependencies for flutter
-> Open your ios/android simulator
-> Type flutter run and boom you just installed the App and now can access and use it locally :) 
+1. Git clone this repository. 
+2. Open in vscode or android studio.
+3. Update the dependencies for the App. 
+4. Open your ios/android simulator. 
+5. Type flutter run wait for it and boom you just installed the App and now can access and use it locally :) 
 
 # Features
 1) Chat with other community.
