@@ -1,4 +1,4 @@
-# Tillage 🌾
+# Arable 🌾
 
 This isn't your typical farming app. Tillage is for anyone who wants to grow more with less, built with and for its community to help people grow and earn. 
 Tailored recommendations on what to grow. Built in chat. 
