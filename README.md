@@ -5,7 +5,7 @@ Tailored recommendations on what to grow. Built in chat.
 The best techniques in farming. 
 
 # About 🔈
-This is a fltter app. Our mission is to provide guidance to the farmer communtity.  
+Our mission is to provide guidance to the farmer communtity.  
 You can get recommendarions on What to grow. How to grow, et cetera. You can get news latest news about agriculture and farming news. 
 
 # Installation 🖥
