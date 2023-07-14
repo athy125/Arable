@@ -21,8 +21,3 @@ You can get recommendarions on What to grow. How to grow, et cetera. You can get
 3) Start your own local bussiness and get stats about it through the Algorithm. 
 4) Get daily graph stats about your local bussiness. 
 
-# UPDATE ON THE APP: 🔊
-This app is still in development process. The community chat feature is in progress and will be rolled out soon :) 
-
-
-STAY TUNED! ;) 👻
